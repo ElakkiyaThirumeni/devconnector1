@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb+srv://elakkiya:elakkiya@devconnector.cvj8g.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
